@@ -1,3 +1,7 @@
+DEMO
+----
+![Demo](https://raw.githubusercontent.com/alexerm/macbook-ukrainian-keyboard/master/demo.png)
+
 INSTALLATION INSTRUCTION
 ------------------------
 1. Copy .keylayout and .icns files to /Library/Keyboard\ Layouts/
